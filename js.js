@@ -3356,38 +3356,38 @@
         },
         nmWwW: [{
             head: {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-skin0.png?raw=true",
+                src: "https://imgur.com/hkGatyy.png",
                 n: {
                     v: 0
                 }
             },
             nVW: {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-left-arm0.png?raw=true",
+                src: "https://imgur.com/wxEHgLU.png",
                 n: {
                     v: 0
                 }
             },
             vvw: {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-right-arm0.png?raw=true",
+                src: "https://imgur.com/nOLvQDI.png",
                 n: {
                     v: 0
                 }
             }
         }, {
             head: {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-skin1.png?raw=true",
+                src: "https://imgur.com/lONGReH.png",
                 n: {
                     v: 0
                 }
             },
             nVW: {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-left-arm0.png?raw=true",
+                src: "https://imgur.com/wxEHgLU.png",
                 n: {
                     v: 0
                 }
             },
             vvw: {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-right-arm0.png?raw=true",
+                src: "https://imgur.com/nOLvQDI.png",
                 n: {
                     v: 0
                 }
@@ -3471,7 +3471,7 @@
         }],
         nwwWM: [{}, {
             head: {
-                src: "img/day-headscarf.png",
+                src: "img/day-deer-hat.png",
                 n: {
                     v: 0
                 }
@@ -3497,7 +3497,7 @@
             }
         }, {
             head: {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-snowman-hat.png?raw=true",
+                src: "https://imgur.com/mSAfPxP.png",
                 n: {
                     v: 0
                 }
@@ -3917,12 +3917,12 @@
                 }
             }],
             [{
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-wood-spear0.png?raw=true",
+                src: "https://i.imgur.com/Hd4ElWv.png",
                 n: {
                     v: 0
                 }
             }, {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-wood-spear1.png?raw=true",
+                src: "https://i.imgur.com/Hd4ElWv.png",
                 n: {
                     v: 0
                 }
@@ -3965,7 +3965,7 @@
                 }
             }],
             [{
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-laser0.png?raw=true",
+                src: "https://i.imgur.com/Cl8qYd9.png",
                 n: {
                     v: 0
                 }
@@ -3975,18 +3975,18 @@
                     v: 0
                 }
             }, {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-laser1l.png?raw=true",
+                src: "https://i.imgur.com/II3WBD0.png",
                 n: {
                     v: 0
                 }
             }],
             [{
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-grenade0.png?raw=true",
+                src: "https://i.imgur.com/3GiIzEb.png",
                 n: {
                     v: 0
                 }
             }, {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-grenade21.png?raw=true",
+                src: "https://i.imgur.com/igp2OQm.png",
                 n: {
                     v: 0
                 }
@@ -3999,43 +3999,43 @@
         ],
         wwM: [
             [{
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gun-effect0.png?raw=true",
+                src: "https://imgur.com/IY9o9pj.png",
                 n: {
                     v: 0
                 }
             }, {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gun-effect1.png?raw=true",
+                src: "https://imgur.com/k0J9Iwu.png",
                 n: {
                     v: 0
                 }
             }, {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gun-effect2.png?raw=true",
+                src: "https://imgur.com/ofUWSAs.png",
                 n: {
                     v: 0
                 }
             }],
             [{
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-laser-effect0.png?raw=true",
+                src: "https://i.imgur.com/my3XMS2.png",
                 n: {
                     v: 0
                 }
             }, {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-laser-effect1.png?raw=true",
+                src: "https://i.imgur.com/o79Ps35.png",
                 n: {
                     v: 0
                 }
             }, {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-laser-effect2.png?raw=true",
+                src: "https://i.imgur.com/kowv2tJ.png",
                 n: {
                     v: 0
                 }
             }, {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-laser-effect3.png?raw=true",
+                src: "https://i.imgur.com/hMstgOH.png",
                 n: {
                     v: 0
                 }
             }, {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-laser-effect4.png?raw=true",
+                src: "https://i.imgur.com/7dM1Rlt.png",
                 n: {
                     v: 0
                 }
@@ -4082,7 +4082,7 @@
             mwW: 1,
             nWw: ["audio/pickaxe-swing.mp3"],
             statusEffect: {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-stone-pickaxe.png?raw=true",
+                src: "https://imgur.com/O2tlMLV.png",
                 n: {
                     v: 0
                 },
@@ -4228,7 +4228,7 @@
             mwW: 1,
             nWw: ["audio/axe-swing.mp3"],
             statusEffect: {
-                src: "img/day-stone-axe.png",
+                src: "https://imgur.com/O8n34Dj.png",
                 n: {
                     v: 0
                 },
@@ -4275,7 +4275,7 @@
             mwW: 1,
             nWw: ["audio/spear-shot.mp3"],
             statusEffect: {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-wood-spear.png?raw=true",
+                src: "https://i.imgur.com/53iZYkl.png",
                 n: {
                     v: 0
                 },
@@ -4550,7 +4550,7 @@
             mwW: 1,
             nWw: ["audio/ak47-shot.mp3"],
             statusEffect: {
-                src: "img/day-AK47.png",
+                src: "https://i.imgur.com/g1rgAuW.png",
                 n: {
                     v: 0
                 },
@@ -4650,7 +4650,7 @@
             mwW: 3,
             nWw: 1,
             statusEffect: {
-                src: "img/day-hand-raw-steak.png",
+                src: "https://imgur.com/oIQN7Jg.png",
                 n: {
                     v: 0
                 },
@@ -4690,7 +4690,7 @@
             mwW: 3,
             nWw: 1,
             statusEffect: {
-                src: "img/day-hand-cooked-steak.png",
+                src: "img/day-hand-sugar-can-bow.png",
                 n: {
                     v: 0
                 },
@@ -4730,7 +4730,7 @@
             mwW: 3,
             nWw: 1,
             statusEffect: {
-                src: "img/day-hand-rotten-steak.png",
+                src: "https://imgur.com/2XjlZ9F.png",
                 n: {
                     v: 0
                 },
@@ -5091,7 +5091,7 @@
             mwW: 1,
             nWw: ["audio/hammer-swing.mp3"],
             statusEffect: {
-                src: "img/day-hammer.png",
+                src: "https://i.imgur.com/H5mW6Op.png",
                 n: {
                     v: 0
                 },
@@ -5183,7 +5183,7 @@
             mwW: 3,
             nWw: 1,
             statusEffect: {
-                src: "img/day-hand-tomato-soup.png",
+                src: "https://i.imgur.com/2bqsycp.png",
                 n: {
                     v: 0
                 },
@@ -5259,7 +5259,7 @@
             mwW: 3,
             nWw: 1,
             statusEffect: {
-                src: "img/day-hand-tomato.png",
+                src: "https://i.imgur.com/7NNZrgY.png",
                 n: {
                     v: 0
                 },
@@ -5640,7 +5640,7 @@
             mwW: 1,
             nWw: ["audio/axe-swing.mp3"],
             statusEffect: {
-                src: "img/day-sulfur-axe.png",
+                src: "https://i.imgur.com/ApykuEy.png",
                 n: {
                     v: 0
                 },
@@ -5734,7 +5734,7 @@
             //nWw: ["audio/laser-submachine-shot.mp3"],
             nWw: ["https://raw.githubusercontent.com/ultrasmesharik/sound/main/snowshot1.mp3"],
             statusEffect: {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-laser-submachine.png?raw=true",
+                src: "https://i.imgur.com/fHvWaIZ.png",
                 n: {
                     v: 0
                 },
@@ -5775,7 +5775,7 @@
             id: 0,
             vnV: 1,
             statusEffect: {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-grenade21.png?raw=true",
+                src: "https://i.imgur.com/igp2OQm.png",
                 n: {
                     v: 0
                 },
@@ -7668,7 +7668,7 @@
         var WVWmw;
 
         function nnM() {
-            WVWmw = textFormatter.nwn(423, 276, "img/loading1.png");
+            WVWmw = textFormatter.nwn(423, 276, "https://imgur.com/9Ujf3C6.png");
         };;
         var wVM;
         var WNW = new WNw.vVmwN;
@@ -9205,9 +9205,9 @@
             vwmNW = textFormatter.nwn(269, 267, "img/settings-box.png");
             mNWnW = textFormatter.nwn(162, 165, "img/chest-box4.png");
             initialize = textFormatter.nwn(595, 405, "img/craftbox2.png");
-            wVmvW = textFormatter.nwn(412, 412, "img/borderBigMinimap2.png");
+            wVmvW = textFormatter.nwn(412, 412, "https://imgur.com/vDA2Bq9.png");
             MWn = textFormatter.nwn(128, 128, "img/minimap.png");
-            mvV = textFormatter.nwn(233, 246, "img/leaderboard.png");
+            mvV = textFormatter.nwn(233, 246, "https://i.imgur.com/RxoY0ln.png");
             wWvVN = textFormatter.nwn(516, 275, "img/jointeam-box.png");
             VwWmw = textFormatter.nwn(513, 150, "img/memberteam-box.png");
             wMW = textFormatter.vMV(40, 40, ["img/full-screen-out.png", "img/full-screen-in.png", "img/full-screen-click.png"]);
@@ -11428,7 +11428,7 @@
             MmNwW = textFormatter.MwM("Copied to clipboard", "'Viga', sans-serif", "#FFFFFF", 40, 350, "#000000", 18, 18, undefined, undefined, 0.6);
             for (vM = 0; vM < 64; vM++) vnN[networkMappings[140]](textFormatter.vMV(40, 40, null, vWMVW));
             vwmNW = textFormatter.nwn(269, 267, "img/settings-box.png");
-            wVmvW = textFormatter.nwn(412, 412, "img/borderBigMinimap2.png");
+            wVmvW = textFormatter.nwn(412, 412, "https://imgur.com/vDA2Bq9.png");
             MWn = textFormatter.nwn(128, 128, "img/minimap.png");
             wMW = textFormatter.vMV(40, 40, ["img/full-screen-out.png", "img/full-screen-in.png", "img/full-screen-click.png"]);
             vWV = textFormatter.vMV(40, 40, ["img/settings-out.png", "img/settings-in.png", "img/settings-click.png"]);
@@ -12605,11 +12605,11 @@
         var mnNmn = NVm;
         var mVwWm = 412 / 8;
         var nMNmn = 0;
-        var MmMNN = "img/borderBigMinimap2.png";
+        var MmMNN = "https://imgur.com/vDA2Bq9.png";
         var nNwnm = "img/arrow-minimap.png";
         var vvWnv = "img/arrow-minimap2.png";
         var nnvMM = "img/house-icon.png";
-        var wVvWW = "img/city-icon.png";
+        var wVvWW = "https://imgur.com/p0KbBTB.png";
         var vmwwW = "img/inv-empty.png";
         var mnvNM = "img/loot.png";
         var WNWVV = "img/loot-mobile.png";
@@ -12619,13 +12619,13 @@
         var VVmWv = "img/timer-arrow.png";
         var VmmmV = "img/timer-lights.png";
         var MvwmV = "img/hint-rotate.png";
-        var VWWWm = "img/day-unusable.png";
-        var vvMMWWN = "img/day-unusable.png";
-        var NnNmV = "img/day-clock.png";
-        var wmvvM = "img/night-clock.png";
+        var VWWWm = "https://i.imgur.com/5Ymc0me.png";
+        var vvMMWWN = "https://i.imgur.com/5Ymc0me.png";
+        var NnNmV = "https://i.imgur.com/e2HEK9N.png";
+        var wmvvM = "https://i.imgur.com/4LQB4RN.png";
         var vmmMv = "img/clock-hand.png";
         var VmwNM = "img/clock-hand-radiation.png";
-        var wwWWW = "img/day-clock-hand.png";
+        var wwWWW = "https://i.imgur.com/QqTN4Vy.png";
         var WMvMW = "img/craft-gauge.png";
         var NvnNn = "img/stroke-bonus.png";
         var NWWNV = "img/wrong-tool.png";
@@ -18468,7 +18468,7 @@
     }, {
         id: Mv.mvm,
         NN: {
-            src: ["img/inv-wood-out.png", "img/inv-wood-in.png", "img/inv-wood-click.png"],
+            src: ["https://i.imgur.com/UHApmvN.png", "https://i.imgur.com/pJywBft.png", "https://i.imgur.com/Wi2gwjw.png"],
             n: [{
                 v: 0
             }, {
@@ -18484,7 +18484,7 @@
     }, {
         id: Mv.NmV,
         NN: {
-            src: ["img/inv-stone-out.png", "img/inv-stone-in.png", "img/inv-stone-click.png"],
+            src: ["https://imgur.com/6kdSeU4.png", "https://imgur.com/vKJ403C.png", "https://imgur.com/cfBS4eE.png"],
             n: [{
                 v: 0
             }, {
@@ -18611,7 +18611,7 @@
     }, {
         id: Mv.Wmm,
         NN: {
-            src: ["img/inv-raw-steak-out.png", "img/inv-raw-steak-in.png", "img/inv-raw-steak-click.png"],
+            src: ["https://imgur.com/0g8MxL0.png", "https://imgur.com/Y4JM9mH.png", "https://imgur.com/CIh7cMS.png"],
             n: [{
                 v: 0
             }, {
@@ -18631,7 +18631,7 @@
     }, {
         id: Mv.VMWnV,
         NN: {
-            src: ["img/inv-cooked-steak-out.png", "img/inv-cooked-steak-in.png", "img/inv-cooked-steak-click.png"],
+            src: ["img/inv-sugar-can-bow-out.png", "img/inv-sugar-can-bow-in.png", "img/inv-sugar-can-bow-click.png"],
             n: [{
                 v: 0
             }, {
@@ -18655,7 +18655,7 @@
     }, {
         id: Mv.mVWVW,
         NN: {
-            src: ["img/inv-rotten-steak-out.png", "img/inv-rotten-steak-in.png", "img/inv-rotten-steak-click.png"],
+            src: ["https://imgur.com/c7LUu6t.png", "https://imgur.com/IMHJ2bo.png", "https://imgur.com/Uym9wJb.png"],
             n: [{
                 v: 0
             }, {
@@ -18673,7 +18673,7 @@
     }, {
         id: Mv.vNV,
         NN: {
-            src: ["img/inv-orange-out.png", "img/inv-orange-in.png", "img/inv-orange-click.png"],
+            src: ["https://i.imgur.com/njMOHrV.png", "https://i.imgur.com/9CnHrv9.png", "https://i.imgur.com/8RoZbvo.png"],
             n: [{
                 v: 0
             }, {
@@ -18715,7 +18715,7 @@
     }, {
         id: Mv.WwwWW,
         NN: {
-            src: ["img/inv-orange-seed-out.png", "img/inv-orange-seed-in.png", "img/inv-orange-seed-click.png"],
+            src: ["https://i.imgur.com/ozfWJjN.png", "https://i.imgur.com/vzS7nw0.png", "https://i.imgur.com/3FLKwpB.png"],
             n: [{
                 v: 0
             }, {
@@ -18768,27 +18768,27 @@
         mVW: vv.mWM,
         MmV: vv.mWM,
         vN: [{
-            src: "img/day-plant0-orange.png",
+            src: "https://i.imgur.com/BRNuELc.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-plant1-orange.png",
+            src: "https://i.imgur.com/XUjdaow.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-plant2-orange.png",
+            src: "https://i.imgur.com/NYUE7aO.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-plant3-orange.png",
+            src: "https://i.imgur.com/c9qAPt4.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-plant4-orange.png",
+            src: "https://i.imgur.com/0KYOljV.png",
             n: {
                 v: 0
             }
@@ -18824,7 +18824,7 @@
     }, {
         id: Mv.WVv,
         NN: {
-            src: ["img/inv-stone-pickaxe-out.png", "img/inv-stone-pickaxe-in.png", "img/inv-stone-pickaxe-click.png"],
+            src: ["https://imgur.com/x47Go00.png", "https://imgur.com/1D7Unwl.png", "https://imgur.com/YqVnR7W.png"],
             n: [{
                 v: 0
             }, {
@@ -18868,7 +18868,7 @@
     }, {
         id: Mv.vwN,
         NN: {
-            src: ["img/inv-stone-axe-out.png", "img/inv-stone-axe-in.png", "img/inv-stone-axe-click.png"],
+            src: ["https://imgur.com/34kYpoQ.png", "https://imgur.com/FVZ3wEy.png", "https://imgur.com/r28orfW.png"],
             n: [{
                 v: 0
             }, {
@@ -18967,7 +18967,7 @@
     }, {
         id: Mv.nVmmn,
         NN: {
-            src: ["img/inv-wood-spear-out.png", "img/inv-wood-spear-in.png", "img/inv-wood-spear-click.png"],
+            src: ["https://imgur.com/z91xGQ9.png", "https://imgur.com/8uqsHYj.png", "https://imgur.com/H7sSmdw.png"],
             n: [{
                 v: 0
             }, {
@@ -19083,7 +19083,7 @@
     }, {
         id: Mv.nvmVv,
         NN: {
-            src: ["img/inv-ak47-out.png", "img/inv-ak47-in.png", "img/inv-ak47-click.png"],
+            src: ["https://i.imgur.com/wLkZJHO.png", "https://i.imgur.com/eOMYFxq.png", "https://i.imgur.com/dcf4cNZ.png"],
             n: [{
                 v: 0
             }, {
@@ -19759,7 +19759,7 @@
     }, {
         id: Mv.wvM,
         NN: {
-            src: ["img/inv-steel-wall-out.png", "img/inv-steel-wall-in.png", "img/inv-steel-wall-click.png"],
+            src: ["https://imgur.com/cItEPrI.png", "https://imgur.com/tjsuwCz.png", "https://imgur.com/Sbxr23v.png"],
             n: [{
                 v: 0
             }, {
@@ -19813,17 +19813,17 @@
         MW: VN.mmV,
         VmMnV: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
         Mwv: [{
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall-broken0.png?raw=true",
+            src: "https://i.imgur.com/0i8Woxz.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall-broken1.png?raw=true",
+            src: "https://i.imgur.com/j7rb3Kc.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall-broken2.png?raw=true",
+            src: "https://i.imgur.com/jQMHk9U.png",
             n: {
                 v: 0
             }
@@ -19831,92 +19831,92 @@
         mVW: vv.wVV,
         MmV: vv.MNv,
         vN: [{
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall0.png?raw=true",
+            src: "img/day-gingerbread-wall0.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall1.png?raw=true",
+            src: "img/day-gingerbread-wall1.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall2.png?raw=true",
+            src: "img/day-gingerbread-wall2.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall3.png?raw=true",
+            src: "img/day-gingerbread-wall3.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall4.png?raw=true",
+            src: "img/day-gingerbread-wall4.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall5.png?raw=true",
+            src: "img/day-gingerbread-wall5.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall6.png?raw=true",
+            src: "img/day-gingerbread-wall6.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall7.png?raw=true",
+            src: "https://imgur.com/ESp0Cmn.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall8.png?raw=true",
+            src: "img/day-gingerbread-wall8.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall9.png?raw=true",
+            src: "img/day-gingerbread-wall9.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall10.png?raw=true",
+            src: "img/day-gingerbread-wall10.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall11.png?raw=true",
+            src: "img/day-gingerbread-wall11.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall12.png?raw=true",
+            src: "https://i.imgur.com/tE0YPFI.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall13.png?raw=true",
+            src: "https://i.imgur.com/htZQt5t.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall14.png?raw=true",
+            src: "https://i.imgur.com/FoQG5SA.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall15.png?raw=true",
+            src: "https://i.imgur.com/pyshtzE.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall16.png?raw=true",
+            src: "img/day-gingerbread-wall16.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall17.png?raw=true",
+            src: "img/day-gingerbread-wall17.png",
             n: {
                 v: 0
             }
@@ -19926,142 +19926,142 @@
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall19.png?raw=true",
+            src: "img/day-gingerbread-wall19.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall20.png?raw=true",
+            src: "https://i.imgur.com/exdalMU.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall21.png?raw=true",
+            src: "https://i.imgur.com/9uUvXRH.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall22.png?raw=true",
+            src: "https://i.imgur.com/zB3BP80.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall23.png?raw=true",
+            src: "https://i.imgur.com/8bMYa6z.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall24.png?raw=true",
+            src: "https://i.imgur.com/l6AJ3sO.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall25.png?raw=true",
+            src: "https://i.imgur.com/6Nasjf7.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall26.png?raw=true",
+            src: "https://i.imgur.com/SuYeLCy.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall27.png?raw=true",
+            src: "https://i.imgur.com/36ajibp.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall28.png?raw=true",
+            src: "https://i.imgur.com/Ex0tPVz.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall29.png?raw=true",
+            src: "https://i.imgur.com/2e15G9w.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall30.png?raw=true",
+            src: "https://i.imgur.com/cX7EbEa.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall31.png?raw=true",
+            src: "https://i.imgur.com/4xFIkp8.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall32.png?raw=true",
+            src: "https://imgur.com/IHn2biQ.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall110.png?raw=true",
+            src: "https://i.imgur.com/VvDMhQ2.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall90.png?raw=true",
+            src: "https://i.imgur.com/muTYGHQ.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall35.png?raw=true",
+            src: "https://i.imgur.com/YQ9FQ1y.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall36.png?raw=true",
+            src: "https://i.imgur.com/a5LnPer.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall100.png?raw=true",
+            src: "https://i.imgur.com/4c7NY1h.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall80.png?raw=true",
+            src: "https://i.imgur.com/ZFrf7Jl.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall39.png?raw=true",
+            src: "https://i.imgur.com/jLTuqNS.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall40.png?raw=true",
+            src: "https://i.imgur.com/ujy5EiM.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall41.png?raw=true",
+            src: "https://i.imgur.com/eJXZ3WY.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall42.png?raw=true",
+            src: "https://i.imgur.com/K4DR0Xp.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall43.png?raw=true",
+            src: "https://i.imgur.com/0ZyRYim.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall44.png?raw=true",
+            src: "https://i.imgur.com/oB8SmaI.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall45.png?raw=true",
+            src: "https://i.imgur.com/l5tETN5.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-wall46.png?raw=true",
+            src: "https://i.imgur.com/9RNcDAj.png",
             n: {
                 v: 0
             }
@@ -20282,7 +20282,7 @@
     }, {
         id: Mv.nmvwv,
         NN: {
-            src: ["img/inv-steel-door-out.png", "img/inv-steel-door-in.png", "img/inv-steel-door-click.png"],
+            src: ["https://i.imgur.com/nUAmW0a.png", "https://i.imgur.com/yDICz67.png", "https://i.imgur.com/nUAmW0a.png"],
             n: [{
                 v: 0
             }, {
@@ -20355,17 +20355,17 @@
             }
         },
         Mwv: [{
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smalldoors-broken0.png?raw=true",
+            src: "https://i.imgur.com/wzlfXGV.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smalldoors-broken1.png?raw=true",
+            src: "https://i.imgur.com/9vB6ipn.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smalldoors-broken2.png?raw=true",
+            src: "https://i.imgur.com/qMrnqbp.png",
             n: {
                 v: 0
             }
@@ -20373,7 +20373,7 @@
         mVW: vv.wVV,
         MmV: vv.MNv,
         vN: {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smalldoors-broken0.png?raw=true",
+            src: "https://i.imgur.com/Uo11jNo.png",
             n: {
                 v: 0
             }
@@ -20622,7 +20622,7 @@
     }, {
         id: Mv.NMV,
         NN: {
-            src: ["img/inv-headscarf-out.png", "img/inv-headscarf-in.png", "img/inv-headscarf-click.png"],
+            src: ["img/inv-deer-hat-out.png", "img/inv-deer-hat-in.png", "img/inv-deer-hat-click.png"],
             n: [{
                 v: 0
             }, {
@@ -20651,7 +20651,7 @@
     }, {
         id: Mv.NwW,
         NN: {
-            src: ["img/inv-chapka-out.png", "img/inv-chapka-in.png", "img/inv-chapka-click.png"],
+            src: ["img/inv-elf-hat-out.png", "img/inv-elf-hat-in.png", "img/inv-elf-hat-click.png"],
             n: [{
                 v: 0
             }, {
@@ -20681,7 +20681,7 @@
     }, {
         id: Mv.mnwnN,
         NN: {
-            src: ["img/inv-coat-out.png", "img/inv-coat-in.png", "img/inv-coat-click.png"],
+            src: ["img/inv-snowman-hat-out.png", "img/inv-snowman-hat-in.png", "img/inv-snowman-hat-click.png"],
             n: [{
                 v: 0
             }, {
@@ -21206,7 +21206,7 @@
     }, {
         id: Mv.NMwmm,
         NN: {
-            src: ["img/inv-steel-door1-out.png", "img/inv-steel-door1-in.png", "img/inv-steel-door1-click.png"],
+            src: ["https://i.imgur.com/k5xfxMF.png", "https://i.imgur.com/gdhO7qN.png", "https://i.imgur.com/k5xfxMF.png"],
             n: [{
                 v: 0
             }, {
@@ -21279,17 +21279,17 @@
             }
         },
         Mwv: [{
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-steel-door1-broken0.png?raw=true",
+            src: "https://i.imgur.com/49VW71E.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-steel-door1-broken1.png?raw=true",
+            src: "https://i.imgur.com/lY0dq3N.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-steel-door1-broken2.png?raw=true",
+            src: "https://i.imgur.com/aBzf4cK.png",
             n: {
                 v: 0
             }
@@ -21297,7 +21297,7 @@
         mVW: vv.wVV,
         MmV: vv.MNv,
         vN: {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-steel-door1.png?raw=true",
+            src: "https://imgur.com/reSxKys.png",
             n: {
                 v: 0
             }
@@ -22035,7 +22035,7 @@
     }, {
         id: Mv.NWnMW,
         NN: {
-            src: ["img/inv-hammer-out.png", "img/inv-hammer-in.png", "img/inv-hammer-click.png"],
+            src: ["https://i.imgur.com/a7xYCOc.png", "https://i.imgur.com/DD8fOeJ.png", "https://i.imgur.com/a7xYCOc.png"],
             n: [{
                 v: 0
             }, {
@@ -23052,7 +23052,7 @@
     }, {
         id: Mv.nnVvn,
         NN: {
-            src: ["img/inv-steel-smallwall-out.png", "img/inv-steel-smallwall-in.png", "img/inv-steel-smallwall-click.png"],
+            src: ["https://i.imgur.com/b8pUfwz.png", "https://i.imgur.com/9nUCXgN.png", "https://i.imgur.com/b8pUfwz.png"],
             n: [{
                 v: 0
             }, {
@@ -23113,17 +23113,17 @@
         wnW: 0,
         MW: VN.wmM,
         Mwv: [{
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-broken0.png?raw=true",
+            src: "https://i.imgur.com/7lBTwdU.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-broken1.png?raw=true",
+            src: "https://i.imgur.com/DAaTXOH.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-broken2.png?raw=true",
+            src: "https://i.imgur.com/yL9Jsbj.png",
             n: {
                 v: 0
             }
@@ -23131,202 +23131,202 @@
         mVW: vv.wVV,
         MmV: vv.MNv,
         vN: [{
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-0.png?raw=true",
+            src: "https://i.imgur.com/fslS1cE.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-1.png?raw=true",
+            src: "https://i.imgur.com/L5s5Olj.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-2.png?raw=true",
+            src: "https://i.imgur.com/WizZY7B.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-3.png?raw=true",
+            src: "https://i.imgur.com/HpBJGxV.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-4.png?raw=true",
+            src: "https://i.imgur.com/2lYJXN8.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-5.png?raw=true",
+            src: "https://i.imgur.com/AdXxXxa.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-6.png?raw=true",
+            src: "https://i.imgur.com/UDhvHf6.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-23.png?raw=true",
+            src: "https://i.imgur.com/BKQd2TW.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-8.png?raw=true",
+            src: "https://i.imgur.com/QoWVuV8.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-9.png?raw=true",
+            src: "https://i.imgur.com/lnz77sY.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-10.png?raw=true",
+            src: "https://i.imgur.com/4G5ON3d.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-11.png?raw=true",
+            src: "https://i.imgur.com/fslS1cE.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-12.png?raw=true",
+            src: "https://i.imgur.com/6nNltef.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-13.png?raw=true",
+            src: "https://i.imgur.com/oMj48GK.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-14.png?raw=true",
+            src: "https://i.imgur.com/VgZTCSP.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-15.png?raw=true",
+            src: "https://i.imgur.com/SZbk1E9.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-16.png?raw=true",
+            src: "https://i.imgur.com/FnADteQ.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-17.png?raw=true",
+            src: "https://i.imgur.com/JAIaWMd.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-18.png?raw=true",
+            src: "https://i.imgur.com/IBgIOdo.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-19.png?raw=true",
+            src: "https://i.imgur.com/EZraYhA.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-20.png?raw=true",
+            src: "https://i.imgur.com/5MDpzDn.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-21.png?raw=true",
+            src: "https://i.imgur.com/ewxNqE2.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-22.png?raw=true",
+            src: "https://i.imgur.com/evWsgI6.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-23.png?raw=true",
+            src: "https://i.imgur.com/MHdcYND.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-24.png?raw=true",
+            src: "https://i.imgur.com/xKf4T6D.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-25.png?raw=true",
+            src: "img/day-steel-smallwalls-25.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-26.png?raw=true",
+            src: "https://imgur.com/pBzTzUo.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-27.png?raw=true",
+            src: "https://i.imgur.com/8L2pdh8.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-28.png?raw=true",
+            src: "https://i.imgur.com/KHRgdDc.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-29.png?raw=true",
+            src: "https://i.imgur.com/BNqb3uH.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-30.png?raw=true",
+            src: "https://i.imgur.com/WFPLwSM.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-31.png?raw=true",
+            src: "https://i.imgur.com/lBmCqs5.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-32.png?raw=true",
+            src: "https://i.imgur.com/4D2ISZ5.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-33.png?raw=true",
+            src: "https://i.imgur.com/lmtjwwp.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-34.png?raw=true",
+            src: "https://i.imgur.com/6yhPctJ.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-35.png?raw=true",
+            src: "https://i.imgur.com/uBgeJcv.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-36.png?raw=true",
+            src: "https://i.imgur.com/3GXVY77.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-37.png?raw=true",
+            src: "https://i.imgur.com/QIWPh1I.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-38.png?raw=true",
+            src: "https://i.imgur.com/AzM0BPR.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-smallwalls-39.png?raw=true",
+            src: "https://i.imgur.com/efDIvtW.png",
             n: {
                 v: 0
             }
@@ -23357,7 +23357,7 @@
     }, {
         id: Mv.wMNww,
         NN: {
-            src: ["img/inv-tomato-soup-out.png", "img/inv-tomato-soup-in.png", "img/inv-tomato-soup-click.png"],
+            src: ["https://i.imgur.com/W1I3T2G.png", "https://i.imgur.com/kpFQHgg.png", "https://i.imgur.com/NGO5iwy.png"],
             n: [{
                 v: 0
             }, {
@@ -23441,7 +23441,7 @@
     }, {
         id: Mv.NwmNN,
         NN: {
-            src: ["img/inv-tomato-seed-out.png", "img/inv-tomato-seed-in.png", "img/inv-tomato-seed-click.png"],
+            src: ["https://i.imgur.com/4Tk4jzL.png", "https://i.imgur.com/2kq1hDQ.png", "https://i.imgur.com/twGPelx.png"],
             n: [{
                 v: 0
             }, {
@@ -23494,27 +23494,27 @@
         mVW: vv.mWM,
         MmV: vv.mWM,
         vN: [{
-            src: "img/day-plant0-tomato.png",
+            src: "https://i.imgur.com/9sMyGxr.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-plant1-tomato.png",
+            src: "https://i.imgur.com/LwsQEaT.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-plant2-tomato.png",
+            src: "https://i.imgur.com/l4srrmO.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-plant3-tomato.png",
+            src: "https://i.imgur.com/y1wSbq3.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-plant4-tomato.png",
+            src: "https://i.imgur.com/WPaguVF.png",
             n: {
                 v: 0
             }
@@ -23527,7 +23527,7 @@
     }, {
         id: Mv.nNm,
         NN: {
-            src: ["img/inv-tomato-out.png", "img/inv-tomato-in.png", "img/inv-tomato-click.png"],
+            src: ["https://i.imgur.com/l89YhLo.png", "https://i.imgur.com/klJrp2a.png", "https://i.imgur.com/7nEG2A2.png"],
             n: [{
                 v: 0
             }, {
@@ -25295,17 +25295,17 @@
         wnW: 0,
         MW: VN.mWwMn,
         hidden: [{
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-wood-spike-cover1.png?raw=true",
+            src: "https://imgur.com/HX6w4J5.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-wood-spike-cover2.png?raw=true",
+            src: "https://imgur.com/yPqxjcN.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-wood-spike-cover3.png?raw=true",
+            src: "https://imgur.com/Xm5JCdA.png",
             n: {
                 v: 0
             }
@@ -25334,7 +25334,7 @@
     }, {
         id: Mv.wMmmV,
         NN: {
-            src: ["img/inv-laser-submachine-out.png", "img/inv-laser-submachine-in.png", "img/inv-laser-submachine-click.png"],
+            src: ["https://i.imgur.com/9yi4NYm.png", "https://i.imgur.com/JWeZj19.png", "https://i.imgur.com/kPL3qcv.png"],
             n: [{
                 v: 0
             }, {
@@ -25360,7 +25360,7 @@
     }, {
         id: Mv.Wmwmv,
         NN: {
-            src: ["img/inv-grenade-out.png", "img/inv-grenade-in.png", "img/inv-grenade-click.png"],
+            src: ["https://i.imgur.com/fbj4CVe.png", "https://i.imgur.com/j7o6012.png", "https://i.imgur.com/i0j2nZz.png"],
             n: [{
                 v: 0
             }, {
@@ -26089,7 +26089,7 @@
     }, {
         id: Mv.nMMVw,
         NN: {
-            src: ["img/inv-seed-tree-out.png", "img/inv-seed-tree-in.png", "img/inv-seed-tree-click.png"],
+            src: ["https://i.imgur.com/rF8E6De.png", "https://i.imgur.com/z23rXyw.png", "https://i.imgur.com/epYqIjW.png"],
             n: [{
                 v: 0
             }, {
@@ -26142,27 +26142,27 @@
         mVW: vv.Mvm,
         MmV: vv.WMm,
         vN: [{
-            src: "img/day-plant-tree0.png",
+            src: "https://i.imgur.com/wcuhwTu.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-plant-tree1.png",
+            src: "https://i.imgur.com/UA3pr3d.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-plant-tree2.png",
+            src: "https://i.imgur.com/jWnQm1r.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-plant-tree3.png",
+            src: "https://i.imgur.com/lRRNTdG.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-plant4-orange.png",
+            src: "https://i.imgur.com/0KYOljV.png",
             n: {
                 v: 0
             }
@@ -27068,7 +27068,7 @@
         VVN: [0, 0, 0, 0],
         VwW: [0, 0, 0, 0],
         vvv: {
-            src: "img/clear-blue-lamp.png",
+            src: "https://i.imgur.com/wyOrywH.png",
             n: {
                 v: 0
             }
@@ -27108,43 +27108,43 @@
         mVW: vv.wVV,
         MmV: vv.MNv,
         vN: {
-            src: "img/day-lamp-off.png",
+            src: "https://i.imgur.com/gqSIl77.png",
             n: {
                 v: 0
             }
         },
         WVmwV: [{
-            src: "img/day-lamp-white.png",
+            src: "https://i.imgur.com/3vUZZsP.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-lamp-yellow.png",
+            src: "https://i.imgur.com/3vUZZsP.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-lamp-green.png",
+            src: "https://i.imgur.com/3vUZZsP.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-lamp-clear-blue.png",
+            src: "https://i.imgur.com/3vUZZsP.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-lamp-purple.png",
+            src: "https://i.imgur.com/3vUZZsP.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-lamp-pink.png",
+            src: "https://i.imgur.com/3vUZZsP.png",
             n: {
                 v: 0
             }
         }, {
-            src: "img/day-lamp-orange.png",
+            src: "https://i.imgur.com/3vUZZsP.png",
             n: {
                 v: 0
             }
@@ -27193,7 +27193,7 @@
     }, {
         id: Mv.VMWww,
         NN: {
-            src: ["img/inv-cable-wall-out.png", "img/inv-cable-wall-in.png", "img/inv-cable-wall-click.png"],
+            src: ["https://i.imgur.com/2EEj0fY.png", "https://i.imgur.com/7bRYqFv.png", "https://i.imgur.com/2EEj0fY.png"],
             n: [{
                 v: 0
             }, {
@@ -27254,22 +27254,22 @@
         mVW: vv.wVV,
         MmV: vv.MNv,
         vN: [{
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-cable-gingerbread-wall1.png?raw=true",
+            src: "https://imgur.com/y5RmODf.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-cable-gingerbread-wall-breake1.png?raw=true",
+            src: "https://i.imgur.com/ykzONRF.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-cable-gingerbread-wall-breake2.png?raw=true",
+            src: "https://i.imgur.com/cubietv.png",
             n: {
                 v: 0
             }
         }, {
-            src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-cable-gingerbread-wall-breake3.png?raw=true",
+            src: "https://i.imgur.com/6wagyYk.png",
             n: {
                 v: 0
             }
@@ -27282,7 +27282,7 @@
     }, {
         id: Mv.mMWNN,
         NN: {
-            src: ["img/inv-automatic-door-out.png", "img/inv-automatic-door-in.png", "img/inv-automatic-door-click.png"],
+            src: ["https://i.imgur.com/cTqmtpW.png", "https://i.imgur.com/QxpIQAG.png", "https://i.imgur.com/cTqmtpW.png"],
             n: [{
                 v: 0
             }, {
@@ -27345,43 +27345,43 @@
         MmV: vv.MNv,
         vN: [
             [{
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-automatic-door-off.png?raw=true",
+                src: "https://imgur.com/bBSAjKf.png",
                 n: {
                     v: 0
                 }
             }, {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-automatic-door-off1.png?raw=true",
+                src: "https://imgur.com/mIpRJaQ.png",
                 n: {
                     v: 0
                 }
             }, {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-automatic-door-off2.png?raw=true",
+                src: "https://imgur.com/wM7l1A0.png",
                 n: {
                     v: 0
                 }
             }, {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-automatic-door-off3.png?raw=true",
+                src: "https://imgur.com/BKAulqS.png",
                 n: {
                     v: 0
                 }
             }],
             [{
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-automatic-door-on.png?raw=true",
+                src: "https://imgur.com/sYX1hqA.png",
                 n: {
                     v: 0
                 }
             }, {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-automatic-door-on1.png?raw=true",
+                src: "https://imgur.com/3iKY0L5.png",
                 n: {
                     v: 0
                 }
             }, {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-automatic-door-on2.png?raw=true",
+                src: "https://i.imgur.com/Xb4D1iV.png",
                 n: {
                     v: 0
                 }
             }, {
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gingerbread-automatic-door-on3.png?raw=true",
+                src: "https://i.imgur.com/HGlcmMH.png",
                 n: {
                     v: 0
                 }
@@ -29399,7 +29399,7 @@
     wV[VV.NVmwm] = JSON[networkMappings[20]](JSON[networkMappings[185]](wV[VV.vwvmv]));
     wV[VV.NVmwm].vN[networkMappings[10]] = "img/day-sofa6.png";
     wV[VV.vNvvM] = JSON[networkMappings[20]](JSON[networkMappings[185]](wV[VV.Wvw]));
-    wV[VV.vNvvM].vN[networkMappings[10]] = "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-renforced-door.png?raw=true";
+    wV[VV.vNvvM].vN[networkMappings[10]] = "https://i.imgur.com/3yzNrJN.png";
     wV[VV.vNvvM].wMM = Nv.nvM;
     wV[VV.vNvvM][networkMappings[79]] = new nV("", "", -1, [
         [Mv.mWm, 40]
@@ -29586,7 +29586,7 @@
     wV[VV.NnnmV].VVN = [0, 0, 30, 0];
     wV[VV.NnnmV].VwW = [0, 0, 0, 30];
     wV[VV.vVV] = JSON[networkMappings[20]](JSON[networkMappings[185]](wV[VV.vnw]));
-    wV[VV.vVV].vN[networkMappings[10]] = "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gift4.png?raw=true";
+    wV[VV.vVV].vN[networkMappings[10]] = "https://imgur.com/gjWSUfT.png";
     wV[VV.vVV][networkMappings[65]] = [70, 70, 70, 70];
     wV[VV.vVV][networkMappings[12]] = [70, 70, 70, 70];
     wV[VV.vVV].VVN = [15, 15, 15, 15];
@@ -29595,7 +29595,7 @@
         [Mv.mvm, 100]
     ]);
     wV[VV.NnWVN] = JSON[networkMappings[20]](JSON[networkMappings[185]](wV[VV.vVV]));
-    wV[VV.NnWVN].vN[networkMappings[10]] = "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gift4.png?raw=true";
+    wV[VV.NnWVN].vN[networkMappings[10]] = "https://imgur.com/gjWSUfT.png";
     wV[VV.vWmwn] = JSON[networkMappings[20]](JSON[networkMappings[185]](wV[VV.NnnmV]));
     wV[VV.vWmwn].vN[networkMappings[10]] = "img/day-furniture4.png";
     wV[VV.vWmwn].mVW = vv.wVV;
@@ -29626,7 +29626,7 @@
     wV[VV.VwMMM] = JSON[networkMappings[20]](JSON[networkMappings[185]](wV[VV.vVV]));
     wV[VV.VwMMM].mVW = vv.VMW;
     wV[VV.VwMMM].MmV = vv.MNm;
-    wV[VV.VwMMM].vN[networkMappings[10]] = "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gift0.png?raw=true";
+    wV[VV.VwMMM].vN[networkMappings[10]] = "https://imgur.com/rpeBZSD.png";
     wV[VV.VwMMM][networkMappings[79]] = new nV("", "", -1, []);
     wV[VV.VwMMM].vMvwW = 1;
     wV[VV.VwMMM].Nw = [
@@ -29645,7 +29645,7 @@
         [Mv.VMn, 1, 0.1]
     ];
     wV[VV.mvwwM] = JSON[networkMappings[20]](JSON[networkMappings[185]](wV[VV.VwMMM]));
-    wV[VV.mvwwM].vN[networkMappings[10]] = "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gift1.png?raw=true";
+    wV[VV.mvwwM].vN[networkMappings[10]] = "https://imgur.com/yBpYNzG.png";
     wV[VV.WNVMV] = JSON[networkMappings[20]](JSON[networkMappings[185]](wV[VV.VwMMM]));
     wV[VV.WNVMV].vN[networkMappings[10]] = "img/day-gold-chair0.png";
     wV[VV.WNVMV][networkMappings[79]] = new nV("", "", -1, [
@@ -29662,7 +29662,7 @@
     wV[VV.Mvnnw].MmV = vv.WMm;
     wV[VV.Mvnnw].wMM = Nv.VnMwV;
     wV[VV.MvVwM] = JSON[networkMappings[20]](JSON[networkMappings[185]](wV[VV.vVV]));
-    wV[VV.MvVwM].vN[networkMappings[10]] = "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-plot0.png?raw=true";
+    wV[VV.MvVwM].vN[networkMappings[10]] = "https://imgur.com/xxtijLM.png";
     wV[VV.MvVwM].wMM = Nv.mVNWM;
     wV[VV.MvVwM].WNm = 2;
     wV[VV.MvVwM].Vwn = 30;
@@ -29806,7 +29806,7 @@
     wV[VV.WmM] = JSON[networkMappings[20]](JSON[networkMappings[185]](wV[VV.vnw]));
     wV[VV.WmM].mVW = vv.wVV;
     wV[VV.WmM].MmV = vv.MNv;
-    wV[VV.WmM].vN[networkMappings[10]] = "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gift2.png?raw=true";
+    wV[VV.WmM].vN[networkMappings[10]] = "https://imgur.com/vZafXjT.png";
     wV[VV.WmM].wMM = Nv.nvM;
     wV[VV.WmM][networkMappings[79]] = new nV("", "", -1, [
         [Mv.mWm, 16]
@@ -29876,7 +29876,7 @@
         [Mv.mVmVm, 1, 0.008]
     ];
     wV[VV.vwmvn] = JSON[networkMappings[20]](JSON[networkMappings[185]](wV[VV.WmM]));
-    wV[VV.vwmvn].vN[networkMappings[10]] = "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-gift3.png?raw=true";
+    wV[VV.vwmvn].vN[networkMappings[10]] = "https://imgur.com/5cAtaLQ.png";
     wV[VV.vmNMn] = JSON[networkMappings[20]](JSON[networkMappings[185]](wV[VV.vnw]));
     wV[VV.vmNMn].vN[networkMappings[10]] = "img/day-ammo-box.png";
     wV[VV.vmNMn].wMM = Nv.VnMwV;
@@ -30030,7 +30030,7 @@
         n: {
             v: 0
         },
-        src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-ground-wood2.png?raw=true",
+        src: "https://i.imgur.com/WJcqzG4.png",
         Mm: Mv.mvm,
         nW: 3,
         scale: 0.85,
@@ -30040,7 +30040,7 @@
         n: {
             v: 0
         },
-        src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-ground-stone0.png?raw=true",
+        src: "https://imgur.com/moiMx6L.png",
         Mm: Mv.NmV,
         nW: 1,
         scale: 1.2,
@@ -30050,7 +30050,7 @@
         n: {
             v: 0
         },
-        src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-ground-stone1.png?raw=true",
+        src: "https://imgur.com/Oc6RXcD.png",
         Mm: Mv.NmV,
         nW: 2,
         scale: 1.2,
@@ -30060,7 +30060,7 @@
         n: {
             v: 0
         },
-        src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-ground-stone2.png?raw=true",
+        src: "https://imgur.com/N1qjr9S.png",
         Mm: Mv.NmV,
         nW: 3,
         scale: 1.2,
@@ -30130,7 +30130,7 @@
         n: {
             v: 0
         },
-        src: "img/day-ground-raw-steak.png",
+        src: "https://imgur.com/iFxpZES.png",
         Mm: Mv.Wmm,
         nW: 1,
         scale: 0.9,
@@ -30140,7 +30140,7 @@
         n: {
             v: 0
         },
-        src: "img/day-ground-cooked-steak.png",
+        src: "img/day-ground-sugar-can-bow.png",
         Mm: Mv.VMWnV,
         nW: 1,
         scale: 0.9,
@@ -30150,7 +30150,7 @@
         n: {
             v: 0
         },
-        src: "img/day-ground-rotten-steak.png",
+        src: "https://imgur.com/blCOwPC.png",
         Mm: Mv.mVWVW,
         nW: 1,
         scale: 0.9,
@@ -30180,7 +30180,7 @@
         n: {
             v: 0
         },
-        src: "img/day-ground-seed-orange.png",
+        src: "https://i.imgur.com/JvQYLrj.png",
         Mm: Mv.WwwWW,
         nW: 1,
         scale: 0.9,
@@ -30200,7 +30200,7 @@
         n: {
             v: 0
         },
-        src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-ground-stone-pickaxe.png?raw=true",
+        src: "https://imgur.com/0CRQHej.png",
         Mm: Mv.WVv,
         nW: 1,
         scale: 0.7,
@@ -30220,7 +30220,7 @@
         n: {
             v: 0
         },
-        src: "img/day-ground-stone-axe.png",
+        src: "https://imgur.com/d7qwqAJ.png",
         Mm: Mv.vwN,
         nW: 1,
         scale: 0.7,
@@ -30240,7 +30240,7 @@
         n: {
             v: 0
         },
-        src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-ground-wood-spear.png?raw=true",
+        src: "https://imgur.com/JAdxwUX.png",
         Mm: Mv.nVmmn,
         nW: 1,
         scale: 0.6,
@@ -30290,7 +30290,7 @@
         n: {
             v: 0
         },
-        src: "img/day-ground-ak47.png",
+        src: "https://i.imgur.com/Lb12cmE.png",
         Mm: Mv.nvmVv,
         nW: 1,
         scale: 0.7,
@@ -30450,7 +30450,7 @@
         n: {
             v: 0
         },
-        src: "img/day-ground-elf-hat.png",
+        src: "img/day-ground-deer-hat.png",
         Mm: Mv.NMV,
         nW: 1,
         scale: 0.8,
@@ -30460,7 +30460,7 @@
         n: {
             v: 0
         },
-        src: "img/day-ground-deer-hat.png",
+        src: "img/day-ground-elf-hat.png",
         Mm: Mv.NwW,
         nW: 1,
         scale: 0.8,
@@ -30470,7 +30470,7 @@
         n: {
             v: 0
         },
-        src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-ground-snowman-hat.png?raw=true",
+        src: "img/day-ground-snowman-hat.png",
         Mm: Mv.mnwnN,
         nW: 1,
         scale: 0.8,
@@ -30670,7 +30670,7 @@
         n: {
             v: 0
         },
-        src: "img/day-ground-hammer.png",
+        src: "https://i.imgur.com/ktek4DB.png",
         Mm: Mv.NWnMW,
         nW: 1,
         scale: 0.7,
@@ -30750,7 +30750,7 @@
         n: {
             v: 0
         },
-        src: "img/day-ground-tomato-soup.png",
+        src: "https://i.imgur.com/wjIwKOM.png",
         Mm: Mv.wMNww,
         nW: 1,
         scale: 0.9,
@@ -30790,7 +30790,7 @@
         n: {
             v: 0
         },
-        src: "img/day-ground-seed-tomato.png",
+        src: "https://i.imgur.com/cr62joo.png",
         Mm: Mv.NwmNN,
         nW: 1,
         scale: 0.9,
@@ -30800,7 +30800,7 @@
         n: {
             v: 0
         },
-        src: "img/day-ground-tomato.png",
+        src: "https://i.imgur.com/bfjJmwt.png",
         Mm: Mv.nNm,
         nW: 1,
         scale: 0.9,
@@ -31140,7 +31140,7 @@
         n: {
             v: 0
         },
-        src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-ground-laser-submachine.png?raw=true",
+        src: "https://i.imgur.com/Hx6hkFR.png",
         Mm: Mv.wMmmV,
         nW: 1,
         scale: 0.8,
@@ -31150,7 +31150,7 @@
         n: {
             v: 0
         },
-        src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-ground-grenade.png?raw=true",
+        src: "https://i.imgur.com/O4bH8oo.png",
         Mm: Mv.Wmwmv,
         nW: 1,
         scale: 0.8,
@@ -31360,7 +31360,7 @@
         n: {
             v: 0
         },
-        src: "img/day-ground-seed-tree.png",
+        src: "https://i.imgur.com/OU49q6d.png",
         Mm: Mv.nMMVw,
         nW: 1,
         scale: 0.8,
@@ -31758,13 +31758,13 @@
                 n: {
                     v: 0
                 },
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-treeleaf0.png?raw=true"
+                src: "https://imgur.com/60Dm2JZ.png"
             },
             nNnMN: {
                 n: {
                     v: 0
                 },
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-tree-and-leaf0.png?raw=true"
+                src: "https://imgur.com/4qRjS1c.png"
             },
             wmw: 145,
             Vnv: 5,
@@ -31779,19 +31779,19 @@
                 n: {
                     v: 0
                 },
-                src: "img/day-tree1.png"
+                src: "https://imgur.com/4Fc0M2z.png"
             },
             VmW: {
                 n: {
                     v: 0
                 },
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-treeleaf1.png?raw=true"
+                src: "https://imgur.com/pIIJIDj.png"
             },
             nNnMN: {
                 n: {
                     v: 0
                 },
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-tree-and-leaf1.png?raw=true"
+                src: "https://imgur.com/GPl7FoD.png"
             },
             wmw: 128,
             Vnv: 5,
@@ -31806,19 +31806,19 @@
                 n: {
                     v: 0
                 },
-                src: "img/day-tree2.png"
+                src: "https://imgur.com/8wCLztX.png"
             },
             VmW: {
                 n: {
                     v: 0
                 },
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-treeleaf2.png?raw=true"
+                src: "https://imgur.com/ek1ox2K.png"
             },
             nNnMN: {
                 n: {
                     v: 0
                 },
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-tree-and-leaf2.png?raw=true"
+                src: "https://imgur.com/dd2bKqG.png"
             },
             wmw: 114,
             Vnv: 5,
@@ -31833,19 +31833,19 @@
                 n: {
                     v: 0
                 },
-                src: "img/day-tree3.png"
+                src: "https://i.imgur.com/ynxYW9E.png"
             },
             VmW: {
                 n: {
                     v: 0
                 },
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-treeleaf3.png?raw=true"
+                src: "https://imgur.com/MSJcRqS.png"
             },
             nNnMN: {
                 n: {
                     v: 0
                 },
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-tree-and-leaf3.png?raw=true"
+                src: "https://imgur.com/0zXggHf.png"
             },
             wmw: 90,
             Vnv: 5,
@@ -31866,13 +31866,13 @@
                 n: {
                     v: 0
                 },
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-treeleaf4.png?raw=true"
+                src: "https://imgur.com/dvfi6IP.png"
             },
             nNnMN: {
                 n: {
                     v: 0
                 },
-                src: "https://github.com/ultrasmesharik/DevastTextures/blob/main/day-tree-and-leaf4.png?raw=true"
+                src: "https://imgur.com/97shRrT.png"
             },
             wmw: 147,
             Vnv: 5,
@@ -32187,7 +32187,7 @@
                 n: {
                     v: 0
                 },
-                src: "img/day-orange-tree-leaf0.png"
+                src: "https://i.imgur.com/oBsG1ub.png"
             },
             VmW: {
                 n: {
@@ -32199,7 +32199,7 @@
                 n: {
                     v: 0
                 },
-                src: "img/day-orange-tree0.png"
+                src: "https://i.imgur.com/lyHAVAy.png"
             },
             wmw: 68,
             Vnv: 5,
@@ -32214,7 +32214,7 @@
                 n: {
                     v: 0
                 },
-                src: "img/day-orange-tree-leaf1.png"
+                src: "https://i.imgur.com/DZDC2zE.png"
             },
             VmW: {
                 n: {
@@ -32226,7 +32226,7 @@
                 n: {
                     v: 0
                 },
-                src: "img/day-orange-tree1.png"
+                src: "https://i.imgur.com/7eHpMsQ.png"
             },
             wmw: 70,
             Vnv: 5,
@@ -32241,7 +32241,7 @@
                 n: {
                     v: 0
                 },
-                src: "img/day-orange-tree-leaf2.png"
+                src: "https://i.imgur.com/7pkQGjj.png"
             },
             VmW: {
                 n: {
@@ -32253,7 +32253,7 @@
                 n: {
                     v: 0
                 },
-                src: "img/day-orange-tree2.png"
+                src: "https://i.imgur.com/1YA3twd.png"
             },
             wmw: 78,
             Vnv: 5,
@@ -32280,19 +32280,19 @@
                 n: {
                     v: 0
                 },
-                src: "img/day-tomato-tree-leaf0.png"
+                src: "https://i.imgur.com/KX7gcUw.png"
             },
             VmW: {
                 n: {
                     v: 0
                 },
-                src: "img/day-tomato0.png"
+                src: "https://i.imgur.com/fmUu088.png"
             },
             nNnMN: {
                 n: {
                     v: 0
                 },
-                src: "img/day-tomato-tree0.png"
+                src: "https://i.imgur.com/0gtBhPi.png"
             },
             wmw: 68,
             Vnv: 5,
@@ -32307,19 +32307,19 @@
                 n: {
                     v: 0
                 },
-                src: "img/day-tomato-tree-leaf1.png"
+                src: "https://i.imgur.com/xNtTGqi.png"
             },
             VmW: {
                 n: {
                     v: 0
                 },
-                src: "img/day-tomato1.png"
+                src: "https://i.imgur.com/ne8RGKK.png"
             },
             nNnMN: {
                 n: {
                     v: 0
                 },
-                src: "img/day-tomato-tree1.png"
+                src: "https://i.imgur.com/qgKPSY9.png"
             },
             wmw: 70,
             Vnv: 5,
@@ -32334,19 +32334,19 @@
                 n: {
                     v: 0
                 },
-                src: "img/day-tomato-tree-leaf2.png"
+                src: "https://i.imgur.com/SqBGaPW.png"
             },
             VmW: {
                 n: {
                     v: 0
                 },
-                src: "img/day-tomato2.png"
+                src: "https://i.imgur.com/GdMU1tN.png"
             },
             nNnMN: {
                 n: {
                     v: 0
                 },
-                src: "img/day-tomato-tree2.png"
+                src: "https://i.imgur.com/SqBGaPW.png"
             },
             wmw: 78,
             Vnv: 5,
@@ -32499,7 +32499,7 @@
                 n: {
                     v: 0
                 },
-                src: "img/day-antidote-tree.png"
+                src: "https://i.imgur.com/RDAumYW.png"
             },
             wmw: 18,
             Vnv: 2,
@@ -41522,7 +41522,7 @@
             angle: 0,
             x: 28,
             y: -50,
-            src: "img/day-ghoul-left-arm.png",
+            src: "https://i.imgur.com/qSeT5l9.png",
             n: {
                 v: 0
             }
@@ -41531,13 +41531,13 @@
             angle: 0,
             x: 28,
             y: 50,
-            src: "img/day-ghoul-right-arm.png",
+            src: "https://i.imgur.com/HQcnuKR.png",
             n: {
                 v: 0
             }
         },
         head: {
-            src: "img/day-ghoul.png",
+            src: "https://i.imgur.com/1j67P33.png",
             n: {
                 v: 0
             }
@@ -41590,7 +41590,7 @@
             angle: 0,
             x: 28,
             y: -40,
-            src: "img/day-ghoul3-left-arm.png",
+            src: "https://i.imgur.com/Bown4kI.png",
             n: {
                 v: 0
             }
@@ -41599,13 +41599,13 @@
             angle: 0,
             x: 28,
             y: 40,
-            src: "img/day-ghoul3-right-arm.png",
+            src: "https://i.imgur.com/3pkCBQv.png",
             n: {
                 v: 0
             }
         },
         head: {
-            src: "img/day-ghoul3.png",
+            src: "https://i.imgur.com/lV3fOJz.png",
             n: {
                 v: 0
             }
@@ -41658,7 +41658,7 @@
             angle: 0,
             x: 28,
             y: -48,
-            src: "img/day-ghoul4-left-arm.png",
+            src: "https://i.imgur.com/MwWV5OZ.png",
             n: {
                 v: 0
             }
@@ -41667,13 +41667,13 @@
             angle: 0,
             x: 28,
             y: 48,
-            src: "img/day-ghoul4-right-arm.png",
+            src: "https://i.imgur.com/jxZs4w5.png",
             n: {
                 v: 0
             }
         },
         head: {
-            src: "img/day-ghoul4.png",
+            src: "https://i.imgur.com/AVdgEjn.png",
             n: {
                 v: 0
             }
@@ -41728,7 +41728,7 @@
             angle: 0,
             x: 28,
             y: -40,
-            src: "img/day-ghoul2-left-arm.png",
+            src: "https://i.imgur.com/7ha66X4.png",
             n: {
                 v: 0
             }
@@ -41737,13 +41737,13 @@
             angle: 0,
             x: 28,
             y: 40,
-            src: "img/day-ghoul2-right-arm.png",
+            src: "https://i.imgur.com/D7xHvgJ.png",
             n: {
                 v: 0
             }
         },
         head: {
-            src: "img/day-ghoul2.png",
+            src: "https://i.imgur.com/eZHpH2k.png",
             n: {
                 v: 0
             }
@@ -41796,7 +41796,7 @@
             angle: 0,
             x: 28,
             y: -50,
-            src: "img/day-ghoul1-left-arm.png",
+            src: "https://i.imgur.com/4thWu8p.png",
             n: {
                 v: 0
             }
@@ -41805,13 +41805,13 @@
             angle: 0,
             x: 28,
             y: 50,
-            src: "img/day-ghoul1-right-arm.png",
+            src: "https://i.imgur.com/tdMZ82o.png",
             n: {
                 v: 0
             }
         },
         head: {
-            src: "img/day-ghoul1.png",
+            src: "https://i.imgur.com/r3KhjnQ.png",
             n: {
                 v: 0
             }
@@ -41947,7 +41947,7 @@
             }
         },
         head: {
-            src: "img/day-lapabot.png",
+            src: "https://imgur.com/1cIZFqT.png",
             n: {
                 v: 0
             }
@@ -42014,7 +42014,7 @@
             }
         },
         head: {
-            src: "img/day-hal-bot.png",
+            src: "https://imgur.com/Ohul1OL.png",
             n: {
                 v: 0
             }
@@ -42081,7 +42081,7 @@
             }
         },
         head: {
-            src: "img/day-tesla-bot.png",
+            src: "https://imgur.com/xoWuZJA.png",
             n: {
                 v: 0
             }
